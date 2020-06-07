@@ -1,0 +1,2 @@
+# Ignore all folders/files in .idea in all subfolders
+/**/.idea
