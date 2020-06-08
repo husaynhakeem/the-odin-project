@@ -1,4 +1,4 @@
-def fibonacci_sequence(n)
+def fibonacci_sequence_iterative(n)
   sequence = []
   0.upto(n) do |i|
     sequence << fibonacci(i)
